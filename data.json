@@ -1,0 +1,19 @@
+{
+    "soundButtons": [
+        {
+            "id": 1,
+            "label": "按鈕 1",
+            "soundUrl": "sounds/sound1.mp3"
+        },
+        {
+            "id": 2,
+            "label": "按鈕 2",
+            "soundUrl": "sounds/sound2.mp3"
+        },
+        {
+            "id": 3,
+            "label": "按鈕 3",
+            "soundUrl": "sounds/sound3.mp3"
+        }
+    ]
+}
